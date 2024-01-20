@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411784427125",
+    "project_id": "verifyotp-44444",
+    "storage_bucket": "verifyotp-44444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411784427125:android:c33fa643a94d9b37d9ea3c",
+        "android_client_info": {
+          "package_name": "com.example.verifyotp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdWtG-qa4gKdtizF003HatVizrLlHclXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
